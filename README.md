@@ -155,6 +155,7 @@ Clone the repository and run `npm update` for all the dependencies to be install
 
 ```bash
 git https://github.com/moneroworld/cryptonote-nodejs-pool.git pool
+
 cd pool
 
 npm update
