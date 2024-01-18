@@ -104,8 +104,10 @@ Usage
   sudo apt-get install -y nodejs
  ```
   * Or use NVM(https://github.com/creationix/nvm) for debian/ubuntu.
-
-
+ ```
+   curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+   source ~/.bashrc
+ ```
 * [Redis](http://redis.io/) key-value store v2.6+ 
   * For Ubuntu: 
 ```
